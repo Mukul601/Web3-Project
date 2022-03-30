@@ -7,7 +7,7 @@ This is a code repository for web page to send crypto
 Using Web 3.0 methodologies, Solidity and Metamask 
 
 Project created in collaboration with Enyel Sequeira: 
-Portfolio - https://www.enyelsequeira.com
+Portfolio - https://mukul601.github.io/
 E-mail - mukul.israni009@gmail.com
 
 
